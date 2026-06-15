@@ -1,0 +1,11 @@
+python freelance_exchange_app.py
+
+Тестовые аккаунты:
+
+admin@mail.ru — администратор
+client1@mail.ru — заказчик
+freelancer1@mail.ru — исполнитель
+manager@mail.ru — менеджер
+
+Пароль для всех: 12345
+
